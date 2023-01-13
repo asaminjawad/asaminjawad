@@ -1,4 +1,5 @@
-[![Header](Software Developer Cover Photo.png)](https://github.com/asaminjawad)]
+![Software Developer Cover Photo](https://user-images.githubusercontent.com/25211630/212430373-5fa6bf43-fdf2-4dca-a242-4c783dede56a.png)
+
 
 ### Welcome to my Profile 👋
 
